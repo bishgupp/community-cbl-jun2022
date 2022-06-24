@@ -13,16 +13,7 @@ I'm trying to have as few prerequisites as possible for this one.  That being sa
 - VS Code ([install](https://code.visualstudio.com/))
 - ThunderClient for VS Code ([install](https://marketplace.visualstudio.com/items?itemName=rangav.vscode-thunder-client))
 - Docker ([install](https://www.docker.com/))
-- GCP Account (if you don't have one, I'll tell you how to set one up)
-
-## Branches and Code
-
-This repository has a container for sharing COVID data via an API.  You can read more about the data below.  This is not designed to be a production application, but it is instead a microservice for use in cloud demos.  
-
-| Branch | Description |
-|--------|-------------|
-| **main** | This is the initial state of the application at the beginning of the episode. |
-| **finish** | This is the end state of the application from the episode | 
+- GCP Account (if you don't have one, I'll tell you how to set one up) 
 
 ## Data Notes
 
